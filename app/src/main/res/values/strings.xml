@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Restaurant</string>
+    <string name="events">Events</string>
+    <string name="event11_time">7pm</string>
+    <string name="event11_name">Sugar Rush</string>
+    <string name="event12_time">8:30pm</string>
+    <string name="event12_name">Pink Paradise</string>
+    <string name="event13_time">9pm</string>
+    <string name="event13_name">Twisted</string>
+    <string name="event21_time">7:30pm</string>
+    <string name="event21_name">Sunrise Glasses</string>
+    <string name="event22_time">8pm</string>
+    <string name="event22_name">Unicorn Island</string>
+    <string name="event23_time">9:30pm</string>
+    <string name="event23_name">Quenched</string>
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+
 </resources>
